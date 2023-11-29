@@ -1,6 +1,7 @@
 # todo_app
 
 A new Flutter project.
+This is code from the GDSC Flutter Day
 
 ## Getting Started
 
